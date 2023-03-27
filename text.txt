@@ -5,7 +5,7 @@ Minio is an open source distributed object server that enables S3 compatible fun
 Minio stores unstructured data such as photos, videos, file logs and containers. It provides scalability and flexibility to its users.
 
 Companies that use Minio:
--sendcloud
+-sendcloud company
 -Travel-cloud
 
 Features:
