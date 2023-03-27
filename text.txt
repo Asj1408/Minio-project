@@ -1,0 +1,20 @@
+MiniO
+INTRODUCTION:
+Minio is an open source distributed object server that enables S3 compatible functionality. Minio is completely open source and comes under AGPL license version 3. The users can modify or distribute the software as they see fit. Minio provides high performance and supports S3 compatible functionality, this is the main reason why organizations often choose Minio.
+
+Minio stores unstructured data such as photos, videos, file logs and containers. It provides scalability and flexibility to its users.
+
+Companies that use Minio:
+-sendcloud
+-Travel-cloud
+
+Features:
+-Bitriot protection
+-encryption
+-scalability and flexibility
+
+Summary:
+Company name-   Minio
+Open/proprietary-  open source
+License- GNU AGPL version3
+Website- www.min.io
